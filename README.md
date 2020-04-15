@@ -1,3 +1,13 @@
+## About RecipeBook
+I wanted an app that I could log all the recipes I really liked, ranging from recipes I use reguarly, to recipes I look forward to trying.
+
+What I desired in addition to a recipe book, was one that I could toggle to show directions, ingredients, maybe even pictures.
+
+In addition to the above, I also wanted to be able to add ingredients from desired recipes to a shopping list, allowing me to shop for specific recipes without having to go to every website with said ingredients.
+
+
+## React instructions below...
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
