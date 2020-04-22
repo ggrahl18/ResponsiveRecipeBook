@@ -5,6 +5,24 @@ What I desired in addition to a recipe book, was one that I could toggle to show
 
 In addition to the above, I also wanted to be able to add ingredients from desired recipes to a shopping list, allowing me to shop for specific recipes without having to go to every website with said ingredients.
 
+Recipe Name:
+
+Ingredients:
+
+Steps:
+
+Cooking Directions:
+
+Pictures:
+
+Source:
+
+
+Input for new recipes
+
+Buttons to expand each 'Recipe name' to show the full recipe
+
+Check list boxes next to each Recipe name, would add all ingredients from each checked recipe to a new array for a shopping list. And then export that shopping list in a text only, printable file or a pretty print idea to give away as presents for people, hang up on the fridge as the favorite recipe ;)
 
 ## React instructions below...
 
